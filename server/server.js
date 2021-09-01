@@ -56,3 +56,11 @@ app.use((req, res, next) => {
 app.listen(PORT, () => {
     console.log("server started on port 5000");
 });
+
+/* Easily update me on Heroku!
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku main
+
+*/
