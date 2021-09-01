@@ -23,3 +23,7 @@ function App() {
 }
 
 export default App;
+// npm run build && (cd server && node server.js)
+
+// To run with 'npm start-dev' ...Add this to scripts:
+// "start-dev": "npm run build && (cd server && nodemon server.js)",

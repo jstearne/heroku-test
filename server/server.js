@@ -63,4 +63,5 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku main
 
+Remember, for testing: npm start runs what the package.json file says to run!
 */
